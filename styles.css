@@ -1,10 +1,6 @@
 body {
     margin: 20px;
-    /*
-    Challenge:
-    Find a web safe font you like, and add it 
-    to your card.
-    */
+   
     font-family: 'Franklin Gothic Medium';
 }
 
@@ -26,26 +22,12 @@ body {
     text-shadow: 2px 2px 20px;
     box-shadow: 5px 5px 20px 10px rgba(0,0,0,1.0);
         
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
+  
 }
 
 .border-blue {
     border: 1px dotted blue;
 }
 
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
+
 
